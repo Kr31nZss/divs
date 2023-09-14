@@ -1,0 +1,31 @@
+.img{
+    width: 500px;
+    border: dotted 1px;
+    border-radius: 20%;
+
+}
+.all{
+    border: solid 1px darkblue;
+    text-align: center;
+    border-radius: 10%;
+    padding: 10%;
+    width: 50%;
+    margin: 0 auto;
+}
+h1{
+    color: brown;
+
+}
+.t{
+    color: red;
+}
+a{
+    text-align: end;
+}
+.qwe{
+    color: blueviolet;
+}
+.t2{
+    color: burlywood;
+}
+
